@@ -148,6 +148,18 @@ uint32_t CodePoints[] = {
   0x2265,  // ≥ // GREATER-THAN OR EQUAL TO
   0xFFFD,  // � // REPLACEMENT CHARACTER
   0x1d422, // 𝐢 // MATHEMATICAL BOLD SMALL I"
+  // Ф // GREEK SMALL LETTER PHI
+  // Э // GREEK
+  // Σ //
+  // α // GREEK SMALL LETTER ALPHA
+  // β // GREEK CAPITAL LETTER BETA
+  // γ // GREEK
+  // δ // GREEK
+  // ε // GREEK
+  // ζ // GREEK
+  // η // GREEK SMALL LETTER OMEGA
+  // ρ // GREEK SMALL LETTER OMEGA
+  // ω // GREEK SMALL LETTER OMEGA
 };
 
 int NumberOfCodePoints = sizeof(CodePoints)/sizeof(CodePoints[0]);
